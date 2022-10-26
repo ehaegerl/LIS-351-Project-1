@@ -24,8 +24,10 @@ body {
     font-style: oblique;
   }
   a {
-    margin-left: 240px;
+    margin-left: 40px;
   }
   img {
     margin-left: 40px;
+    width:"100";
+    height:"150";
   }
